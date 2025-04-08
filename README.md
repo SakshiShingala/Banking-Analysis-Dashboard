@@ -17,7 +17,7 @@ The dataset includes detailed banking metrics such as:
 - Deposit Data (Savings, Chequing, Superannuation, Foreign Currency)  
 - Property and Risk Data  
 
-📁 File: `Banking.xlsx`  
+📁 File: <a href="https://github.com/SakshiShingala/Banking-Analysis-Dashboard/blob/main/Banking.xlsx">`Banking.xlsx`</a>  
 📄 Sample Records: 1000+ clients  
 📌 Banking Types: Retail, Institutional, Commercial, Private  
 
@@ -68,10 +68,10 @@ The dataset includes detailed banking metrics such as:
 
 ## 🧭 Folder Structure  
 📁 Banking-Analysis-Dashboard
-┣ 📊 Banking Dashboard.pbix
-┣ 📓 Banking_DataCleaning.ipynb
-┣ 📄 Banking.xlsx
-┗ 📄 README.md
+┣ 📊 <a href="https://github.com/SakshiShingala/Banking-Analysis-Dashboard/blob/main/Banking%20Dashboard.pbix">Banking Dashboard.pbix</a>
+┣ 📓 <a href="https://github.com/SakshiShingala/Banking-Analysis-Dashboard/blob/main/Banking_DataCleaning.ipynb">Banking_DataCleaning.ipynb</a>
+┣ 📄 <a href="https://github.com/SakshiShingala/Banking-Analysis-Dashboard/blob/main/Banking.xlsx">Banking.xlsx</a>
+┗ 📄 <a href="https://github.com/SakshiShingala/Banking-Analysis-Dashboard/blob/main/README.md">README.md</a>
 
 
 ---
