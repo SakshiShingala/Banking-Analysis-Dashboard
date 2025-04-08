@@ -1,89 +1,91 @@
-📊 Banking Analysis Dashboard | Power BI Project
-📝 Project Overview
-This interactive Banking Analysis Dashboard was developed using Power BI, Python, and Excel. It provides valuable insights into customer behavior, loan and deposit trends, and overall banking performance based on filters such as year, gender, and banking relationship type.
+# 📊 Banking Analysis Dashboard | Power BI Project  
 
-Built with a focus on clarity, interactivity, and actionable insights, this dashboard helps financial institutions make data-driven decisions.
+---
 
-📂 Dataset Description
-The dataset includes detailed banking metrics such as:
+## 📝 Project Overview  
+This interactive Banking Analysis Dashboard was developed using **Power BI**, **Python**, and **Excel**. It provides valuable insights into customer behavior, loan and deposit trends, and overall banking performance based on filters such as **year**, **gender**, and **banking relationship type**.  
 
-Client Demographics (Gender, Advisor, Year Joined)
+Built with a focus on clarity, interactivity, and actionable insights, this dashboard helps financial institutions make data-driven decisions.  
 
-Loan Data (Total Loan, Business Lending, Credit Cards)
+---
 
-Deposit Data (Savings, Chequing, Superannuation, Foreign Currency)
+## 📂 Dataset Description  
 
-Property and Risk Data
+The dataset includes detailed banking metrics such as:  
+- Client Demographics (Gender, Advisor, Year Joined)  
+- Loan Data (Total Loan, Business Lending, Credit Cards)  
+- Deposit Data (Savings, Chequing, Superannuation, Foreign Currency)  
+- Property and Risk Data  
 
-📁 File: bank_data.csv
-📄 Sample Records: 1000+ clients
-📌 Banking Types: Retail, Institutional, Commercial, Private
+📁 File: `Banking.xlsx`  
+📄 Sample Records: 1000+ clients  
+📌 Banking Types: Retail, Institutional, Commercial, Private  
 
-🛠 Tools & Technologies Used
-Power BI Desktop
+---
 
-Jupyter Notebook (Python)
+## 🛠 Tools & Technologies Used  
+- **Power BI Desktop**  
+- **Jupyter Notebook (Python)**  
+- **Excel**  
+- **Pandas, NumPy**  
+- **Power Query & DAX**
 
-Excel
+---
 
-Pandas, NumPy
+## 📈 Dashboard Features  
 
-Power Query & DAX
+### 🏠 Home Page  
+- Overview of total loans, deposits, client distribution  
+- Filters by **Gender** and **Joining Year**  
+- Navigation buttons for deeper analysis  
 
-📈 Dashboard Features
-🏠 Home Page
-Overview of total loans, deposits, client distribution
+### 🧾 Loan Analysis  
+- Visuals for total loans, credit cards, and lending patterns  
+- Breakdowns by year, gender, and relationship type  
 
-Filters by Gender and Joining Year
+### 💰 Deposit Analysis  
+- Deposit trends across various accounts  
+- Segmented by client type and demographics  
 
-Navigation buttons for deeper analysis
+### 📋 Summary Page  
+- Full client overview including risk weighting, advisors, properties, and savings  
+- Fully interactive with filterable insights  
 
-🧾 Loan Analysis
-Visuals for total loans, credit cards, and lending patterns
+### 🤖 Ask a Question  
+- Q&A powered natural language page  
+- Pre-defined suggestions to generate charts automatically  
 
-Breakdowns by year, gender, and relationship type
+---
 
-💰 Deposit Analysis
-Deposit trends across various accounts
+## 💡 Key Insights  
 
-Segmented by client type and demographics
+- Institutional clients tend to have higher average loans  
+- Retail banking shows a wider spread in deposit types  
+- Business lending is more common among male clients aged 35–45  
+- Risk-weighting and total credit card amount show a strong correlation with advisor involvement  
 
-📋 Summary Page
-Full client overview including risk weighting, advisors, properties, and savings
+---
 
-Fully interactive with filterable insights
-
-🤖 Ask a Question
-Q&A powered natural language page
-
-Pre-defined suggestions to generate charts automatically
-
-💡 Key Insights
-Institutional clients tend to have higher average loans
-
-Retail banking shows a wider spread in deposit types
-
-Business lending is more common among male clients aged 35–45
-
-Risk-weighting and total credit card amount show a strong correlation with advisor involvement
-
-🧭 Folder Structure
-Copy
-Edit
-📁 Banking-Analysis-Dashboard  
- ┣ 📊 Banking_Dashboard.pbix  
- ┣ 📓 Data_Cleaning.ipynb  
- ┣ 📄 bank_data.csv  
- ┗ 📄 README.md  
-🚀 Getting Started
-Clone the repository
-
-Open Banking_Dashboard.pbix in Power BI Desktop
-
-Use filters and navigation buttons to explore insights
+## 🧭 Folder Structure  
+📁 Banking-Analysis-Dashboard
+┣ 📊 Banking Dashboard.pbix
+┣ 📓 Banking_DataCleaning.ipynb
+┣ 📄 Banking.xlsx
+┗ 📄 README.md
 
 
-📬 Connect With Me
-👩‍💻 Sakshi Shingala
-📧 Sakshishingala05@gmail.com
+---
 
+## 🚀 Getting Started  
+
+1. Clone the repository  
+2. Open `Banking_Dashboard.pbix` in **Power BI Desktop**  
+3. Use filters and navigation buttons to explore insights  
+
+---
+
+## 📬 Connect With Me  
+
+👩‍💻 Sakshi Shingala  
+📧 sakshishingala05@gmail.com
+🔗 www.linkedin.com/in/sakshi-shingala 
